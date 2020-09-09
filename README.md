@@ -1,4 +1,4 @@
 # Challenge dela
 
-input: abcd
+input: abcd <br>
 output: abBcCcdDdD
